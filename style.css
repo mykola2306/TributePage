@@ -57,7 +57,10 @@ hr {
 @media only screen and (max-width: 568px) {
     .topImage {
         width: 100%;
-        border-radius: 0px;
-        
+        border-radius: 0px;   
+    }
+    .container-top{
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
